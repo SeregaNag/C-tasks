@@ -14,4 +14,4 @@ void temp()
 		printf("%6.1f            %6.1f\n", celsius, fahr);
 		celsius = celsius + step;
 	}
-}
+}
