@@ -128,7 +128,14 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Chars.c" />
+    <ClCompile Include="CopyWithoutSpace.c" />
+    <ClCompile Include="CopyWithoutTabs.c" />
     <ClCompile Include="Main.c" />
+    <ClCompile Include="SymbolCount.c" />
+    <ClCompile Include="Temperature.c" />
+    <ClCompile Include="Temperature2.c" />
+    <ClCompile Include="WordCount.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
