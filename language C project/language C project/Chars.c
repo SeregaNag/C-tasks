@@ -2,6 +2,7 @@
 //EOF = ctrl+z
 void chars()
 {
+	printf("%d", EOF);
 	int c;
 	c = getchar();
 	while (c != EOF) {
