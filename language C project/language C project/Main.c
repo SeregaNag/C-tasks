@@ -1,5 +1,5 @@
 #include <stdio.h>
 
 void main() {
-	symbol_count();
+	copy_without_space();
 }
