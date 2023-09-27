@@ -131,6 +131,9 @@
     <ClCompile Include="Chars.c" />
     <ClCompile Include="CopyWithoutSpace.c" />
     <ClCompile Include="CopyWithoutTabs.c" />
+    <ClCompile Include="CopyWordsWithN.c" />
+    <ClCompile Include="Gistogram.c" />
+    <ClCompile Include="GistogramVert.c" />
     <ClCompile Include="Main.c" />
     <ClCompile Include="SymbolCount.c" />
     <ClCompile Include="Temperature.c" />

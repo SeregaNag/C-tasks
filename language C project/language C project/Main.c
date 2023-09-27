@@ -1,5 +1,5 @@
 #include <stdio.h>
 
 void main() {
-	word_copy();
+	gistogram_vert();
 }
